@@ -9,3 +9,4 @@ Repository of my certificates from different courses.
 
 ## Scrimba
 - [The Frontend Developer Career Path](https://github.com/samc18/certificates/blob/master/Scrimba/The%20Frontend%20Developer%20Career%20Path.pdf)
+- [JavaScript deep dive](https://github.com/samc18/certificates/blob/master/Scrimba/JavaScript%20deep%20dive.pdf)
